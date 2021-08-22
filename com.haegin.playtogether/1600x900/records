@@ -1,0 +1,18 @@
+{
+    "3e082b1b7c874c6c9683883c06acf015": {
+        "hero_type": "",
+        "image_url": "",
+        "isOfficial": true,
+        "name": "Play Together",
+        "time": "1629295965238",
+        "type": ""
+    },
+    "7d8575f78f48402097f1ae9d7e1e5987": {
+        "hero_type": "",
+        "image_url": "",
+        "isOfficial": false,
+        "name": "My Config(Local)",
+        "time": "1628520769806",
+        "type": ""
+    }
+}

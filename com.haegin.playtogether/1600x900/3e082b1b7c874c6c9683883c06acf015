@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+    <Scene id="com.haegin.playtogether" height="687" horizonFlag="1" rotateAngle="0" width="1221" opacity="20">
+        <Item type="1" height="48" clicked_tip="" pos="582,604" width="84" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="13" keyString="Enter" description="tiếp tục">
+                <Point>624,628</Point>
+            </Key>
+        </Item>
+        <Item type="0" height="202" clicked_tip="" pos="90,411" width="202">
+            <Key modifier_value="0" keyLevel="" value="87" keyString="W" description="">
+                <Point>191,427</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="65" keyString="A" description="">
+                <Point>106,512</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="83" keyString="S" description="">
+                <Point>191,597</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="68" keyString="D" description="">
+                <Point>276,512</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="-1" keyString="DIRECTION_LEFT_TOP" description="">
+                <Point>131,452</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="-2" keyString="DIRECTION_LEFT_BOTTOM" description="">
+                <Point>131,572</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="-3" keyString="DIRECTION_RIGHT_BOTTOM" description="">
+                <Point>251,572</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="-4" keyString="DIRECTION_RIGHT_TOP" description="">
+                <Point>251,452</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="1031,515" width="84" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="32" keyString="Space" description="nhảy">
+                <Point>1073,539</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="25,136" width="84" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="9" keyString="Tab" description="nhiệm vụ">
+                <Point>67,160</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="1142,236" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="80" keyString="P" description="phần thưởng">
+                <Point>1166,260</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="1141,343" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="79" keyString="O" description="ba lô">
+                <Point>1165,367</Point>
+            </Key>
+        </Item>
+        <Item type="2" height="80" clicked_tip="" pos="882,229" width="108" slider="25">
+            <Key modifier_value="0" keyLevel="" value="-5" keyString="KEY_AIM" description="">
+                <Point>950,269</Point>
+            </Key>
+            <Key modifier_value="0" keyLevel="" value="17" keyString="Ctrl" description="xoay góc nhìn bằng chuột">
+                <Point>950,269</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="951,395" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="67" keyString="C" description="">
+                <Point>975,419</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="855,28" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="66" keyString="B" description="">
+                <Point>879,52</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="719,181" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="82" keyString="R" description="">
+                <Point>743,205</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="719,300" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="76" keyString="L" description="">
+                <Point>743,324</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="896,514" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="70" keyString="F" description="">
+                <Point>920,538</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="1154,22" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="90" keyString="Z" description="">
+                <Point>1178,46</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="588,495" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="71" keyString="G" description="">
+                <Point>612,519</Point>
+            </Key>
+        </Item>
+        <Item type="1" height="48" clicked_tip="" pos="568,40" width="48" finger_count="1">
+            <Key modifier_value="0" keyLevel="" value="53" keyString="5" description="">
+                <Point>592,64</Point>
+            </Key>
+        </Item>
+    </Scene>
+</Root>

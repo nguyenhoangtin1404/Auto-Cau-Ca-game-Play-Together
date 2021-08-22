@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+    <Scene height="857" horizonFlag="1" width="1525" rotateAngle="0" id="com.haegin.playtogether" opacity="20">
+        <Item pos="1306,653" height="48" finger_count="1" width="48" type="1" clicked_tip="">
+            <Key description="" keyString="C" keyLevel="" value="67" modifier_value="0">
+                <Point>1330,677</Point>
+            </Key>
+        </Item>
+        <Item pos="1202,489" height="48" finger_count="1" width="48" type="1" clicked_tip="">
+            <Key description="" keyString="X" keyLevel="" value="88" modifier_value="0">
+                <Point>1226,513</Point>
+            </Key>
+        </Item>
+        <Item pos="1042,645" height="48" finger_count="1" width="48" type="1" clicked_tip="">
+            <Key description="" keyString="Z" keyLevel="" value="90" modifier_value="0">
+                <Point>1066,669</Point>
+            </Key>
+        </Item>
+    </Scene>
+</Root>
